@@ -1,0 +1,16 @@
+com\metaxis\crowdmanagement\tasktraining\TaskTrainingManager.class
+com\metaxis\crowdmanagement\response\RestResponse.class
+com\metaxis\crowdmanagement\utils\Manager.class
+com\metaxis\crowdmanagement\response\ResponseError.class
+com\metaxis\crowdservice\utils\DBConnection.class
+com\metaxis\crowdmanagement\tasktraining\pojo\TrainingRecord.class
+com\metaxis\crowdmanagement\rest\CrowdResponseFilter.class
+com\metaxis\crowdmanagement\exceptions\CrowdExceptionCodes.class
+com\metaxis\crowdmanagement\rest\CrowdCrossDomainFilter.class
+com\metaxis\crowdmanagement\exceptions\CrowdExceptions.class
+com\metaxis\crowdservice\utils\DBCalls.class
+com\metaxis\crowdmanagement\rest\CORSBindingFolder.class
+com\metaxis\crowdmanagement\rest\ApplicationConfig.class
+com\metaxis\crowdmanagement\utils\CrowdProps.class
+com\metaxis\crowdmanagement\rest\CrowdManagementService.class
+com\metaxis\crowdmanagement\utils\CrowdFunctions.class
